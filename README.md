@@ -13,7 +13,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=jarebon)](https://github.com/tsukasa-u/jarebon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=softCAN)](https://github.com/tsukasa-u/softCAN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=bookmarksEx)](https://github.com/tsukasa-u/bookmarksEx)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=ssh_gui)](https://github.com/tsukasa-u/ssh_gui)
 
 
 <!--
