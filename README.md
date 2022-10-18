@@ -1,9 +1,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsukasa-u&count_private=true" height="0.2%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsukasa-u&count_private=true" width="0.2%" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukasa-u&layout=compact&langs_count=8" height="0.2%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukasa-u&layout=compact&langs_count=8" width="0.2%" />
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=nbtMapEditor)](https://github.com/tsukasa-u/nbtMapEditor)
