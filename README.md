@@ -1,4 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tsukasa-u&count_private=true&show_icons=true"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukasa-u&layout=compact&langs_count=8"></img>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsukasa-u&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
