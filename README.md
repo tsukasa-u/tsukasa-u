@@ -1,5 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=tsukasa-u&count_private=true"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukasa-u&layout=compact&langs_count=8"></img>
+<a><img src="https://github-readme-stats.vercel.app/api?username=tsukasa-u&count_private=true"></img></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukasa-u&layout=compact&langs_count=8"></img></a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
