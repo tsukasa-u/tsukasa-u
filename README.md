@@ -9,6 +9,8 @@
 
 ### MyRepos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=nbtMapEditor)](https://github.com/tsukasa-u/nbtMapEditor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=Recorditioner)](https://github.com/tsukasa-u/Recorditioner)
+
 
 <!--
 **tsukasa-u/tsukasa-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
