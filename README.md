@@ -15,7 +15,7 @@
 
 <br>
 
-<div width="100%">
+<div width="100%" style="position:static;">
   <h1 align="left">MyRepos</h1>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=nbtMapEditor)](https://github.com/tsukasa-u/nbtMapEditor)
