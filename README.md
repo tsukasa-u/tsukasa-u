@@ -9,14 +9,9 @@
 -->
 
 <a herf="https://metrics.lecoq.io/insights?user=tsukasa-u">
-  <img src="./github-metrics.svg" />
+  <img src="./github-metrics.svg?sanitize=true" />
 </a>
 
-<style>
-  svg {
-    position: absolute;
-  }
-</style>
 
 <!-- 
 [![Metrics](/left.svg)](https://metrics.lecoq.io/insights?user=tsukasa-u)
