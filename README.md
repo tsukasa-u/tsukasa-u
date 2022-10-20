@@ -12,10 +12,6 @@
   <img src="./github-metrics.svg?sanitize=true" />
 </a>
 
-<object data="./github-metrics.svg" type="image/svg+xml">
-</object>
-Web で描画する
-
 <!-- 
 [![Metrics](/left.svg)](https://metrics.lecoq.io/insights?user=tsukasa-u)
 [![Metrics](/right.svg)](https://metrics.lecoq.io/insights?user=tsukasa-u) -->
