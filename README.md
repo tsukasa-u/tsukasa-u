@@ -9,16 +9,16 @@
 -->
 
 
-<div width="100%" style="position:static;">
+<p>
 <a herf="https://metrics.lecoq.io/insights?user=tsukasa-u">
   <img align="left" src="/left.svg" style="width: 47%; height: auto; display: flex;" />
   <img align="left" src="/right.svg" style="width: 47%; height: auto; display: flex;" />
 </a>
-</div>
+</p>
 
 <br>
 
-<div width="100%" style="position:static;">
+<p>
   <h1 align="left">MyRepos</h1>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=nbtMapEditor)](https://github.com/tsukasa-u/nbtMapEditor)
@@ -27,6 +27,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=softCAN)](https://github.com/tsukasa-u/softCAN)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=bookmarksEx)](https://github.com/tsukasa-u/bookmarksEx)
 
+</p>
 
 <!--
 **tsukasa-u/tsukasa-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
