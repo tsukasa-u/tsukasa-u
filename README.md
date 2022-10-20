@@ -9,7 +9,7 @@
 -->
 
 <a herf="https://metrics.lecoq.io/insights?user=tsukasa-u">
-  <img alighn="center" src="./github-metrics.svg" width="auto" height="auto" />
+  <img alighn="left" src="./github-metrics.svg" width="50%" height="auto" />
 </a>
 
 <!-- 
