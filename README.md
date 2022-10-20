@@ -11,7 +11,11 @@
 <a herf="https://metrics.lecoq.io/insights?user=tsukasa-u">
   <img src="./github-metrics.svg?sanitize=true" />
 </a>
-
+```css
+svg {
+  position: absolute;
+}
+```
 
 <!-- 
 [![Metrics](/left.svg)](https://metrics.lecoq.io/insights?user=tsukasa-u)
