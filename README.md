@@ -10,7 +10,7 @@
 
 <a herf="https://metrics.lecoq.io/insights?user=tsukasa-u">
   <img align="left" src="/left.svg" style="width: 30%; height: auto; display: flex;" />
-  <img align="right" src="/right.svg" style="width: 30%; height: auto; display: flex;" />
+  <img align="left" src="/right.svg" style="width: 30%; height: auto; display: flex;" />
 </a>
 
 ### MyRepos
