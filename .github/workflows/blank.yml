@@ -1,10 +1,9 @@
 name: Metrics
 on:
-  # Schedule daily updates
+  # Schedule updates (Runs at 09:00 JST every day)
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,4 +13,38 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: krabben16
+          template: classic
+          base: header, activity, repositories, metadata
+          config_display: large
+          config_padding: 0, 10 + 8%
+          config_timezone: Asia/Tokyo
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: B
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
