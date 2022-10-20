@@ -8,13 +8,10 @@
 </a>
 -->
 
-<!-- <a herf="https://metrics.lecoq.io/insights?user=tsukasa-u">
-  <img src="./github-metrics.svg?sanitize=true" />
-</a> -->
-<div style="width:32px; height:32px; background-image:url(github-metrics.svg); background-size:100%;"></div>
-<!-- 
-[![Metrics](/left.svg)](https://metrics.lecoq.io/insights?user=tsukasa-u)
-[![Metrics](/right.svg)](https://metrics.lecoq.io/insights?user=tsukasa-u) -->
+<a herf="https://metrics.lecoq.io/insights?user=tsukasa-u">
+  <img align="center" src="/left.svg" />
+  <img align="center" src="/right.svg" />
+</a>
 
 ### MyRepos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=nbtMapEditor)](https://github.com/tsukasa-u/nbtMapEditor)
