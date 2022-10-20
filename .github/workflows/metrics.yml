@@ -21,7 +21,7 @@ jobs:
           user: tsukasa-u
           template: classic
           base: header, activity, community, repositories, metadata
-          config_padding: 8 + 50%, 8 + 50%
+          config_padding: 8 + 20%, 8 + 20%
           config_timezone: Asia/Tokyo
 
           plugin_habits: yes
@@ -58,7 +58,7 @@ jobs:
           filename: right.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: 
-          config_padding: 8 + 50%, 8 + 50%
+          config_padding: 8 + 20%, 8 + 20%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
