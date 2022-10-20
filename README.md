@@ -8,10 +8,13 @@
 </a>
 -->
 
+
+<div width="100%" style="position:static;">
 <a herf="https://metrics.lecoq.io/insights?user=tsukasa-u">
   <img align="left" src="/left.svg" style="width: 47%; height: auto; display: flex;" />
   <img align="left" src="/right.svg" style="width: 47%; height: auto; display: flex;" />
 </a>
+</div>
 
 <br>
 
