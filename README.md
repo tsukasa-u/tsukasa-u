@@ -1,7 +1,6 @@
-<a herf="https://metrics.lecoq.io/insights?user=tsukasa-u">
-  <img align="left" id="left" src="/left.svg" style="width: 47%; height: auto; display: flex;" />
-  <img align="left" id="right" src="/right.svg" style="width: 47%; height: auto; display: flex;" />
-</a>
+[<img align="left" id="left" src="/left.svg" style="width: 47%; height: auto; display: flex;" />](https://metrics.lecoq.io/insights/tsukasa-u)
+[<img align="left" id="right" src="/right.svg" style="width: 47%; height: auto; display: flex;" />](https://metrics.lecoq.io/insights/tsukasa-u)
+
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=nbtMapEditor)](https://github.com/tsukasa-u/nbtMapEditor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=Recorditioner)](https://github.com/tsukasa-u/Recorditioner)
