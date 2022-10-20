@@ -9,8 +9,8 @@
 -->
 
 <a herf="https://metrics.lecoq.io/insights?user=tsukasa-u">
-  <img align="left" src="/left.svg" style="width: 46%; height: auto; display: flex;" />
-  <img align="left" src="/right.svg" style="width: 46%; height: auto; display: flex;" />
+  <img align="left" src="/left.svg" style="width: 47%; height: auto; display: flex;" />
+  <img align="left" src="/right.svg" style="width: 47%; height: auto; display: flex;" />
 </a>
 
 <br>
