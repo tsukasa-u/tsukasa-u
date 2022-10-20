@@ -9,8 +9,8 @@
 -->
 
 <a herf="https://metrics.lecoq.io/insights?user=tsukasa-u">
-  <img align="center" src="/left.svg" />
-  <img align="center" src="/right.svg" />
+  <img align="left" src="/left.svg" />
+  <img align="right" src="/right.svg" />
 </a>
 
 ### MyRepos
