@@ -28,13 +28,8 @@ jobs:
           user: tsukasa-u
           template: classic
           base: header, activity, community, repositories, metadata
-          base_hireable: yes
-          base_indepth: yes
           config_display: columns
-          config_octicon: yes
-          config_order: base.header, base.repositories
           config_timezone: Asia/Tokyo
-          config_twemoji: yes
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -58,10 +53,14 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 30
+          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_from: organization
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          plugin_notable_self: yes
           plugin_notable_types: commit
-          repositories_forks: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4
