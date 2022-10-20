@@ -3,12 +3,12 @@
   <img align="left" id="right" src="/right.svg" style="width: 47%; height: auto; display: flex;" />
 </a>
 
-``` js
-let imgleft = document.getElemtById("left");
-let imgright = document.getElemtById("right");
-let parent = imgleft.parentNode;
-console.log(parent.style.width);
-```
+<script>
+  let imgleft = document.getElemtById("left");
+  let imgright = document.getElemtById("right");
+  let parent = imgleft.parentNode;
+  console.log(parent.style.width);
+</script>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=nbtMapEditor)](https://github.com/tsukasa-u/nbtMapEditor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsukasa-u&repo=Recorditioner)](https://github.com/tsukasa-u/Recorditioner)
